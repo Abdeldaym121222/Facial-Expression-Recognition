@@ -47,10 +47,10 @@ The seven classes are anger, disgust, fear, happiness, neutral, sadness, and sur
 
 <table>
   <tr>
-    <td align="center"><img src="Figure9a.png" width="210" alt="Confusion matrix on AffectNet-7"><br>AffectNet-7 (original protocol)</td>
-    <td align="center"><img src="Figure9b.png" width="210" alt="Confusion matrix on KDEF"><br>KDEF</td>
-    <td align="center"><img src="Figure9c.png" width="210" alt="Confusion matrix on CK+"><br>CK+</td>
-    <td align="center"><img src="Figure9d.png" width="210" alt="Confusion matrix on JAFFE"><br>JAFFE</td>
+    <td align="center"><img src="CMAffect.png" width="210" alt="Confusion matrix on AffectNet-7"><br>AffectNet-7 (original protocol)</td>
+    <td align="center"><img src="CMKdef.png" width="210" alt="Confusion matrix on KDEF"><br>KDEF</td>
+    <td align="center"><img src="CMCk+.png" width="210" alt="Confusion matrix on CK+"><br>CK+</td>
+    <td align="center"><img src="CMJaffe.png" width="210" alt="Confusion matrix on JAFFE"><br>JAFFE</td>
   </tr>
 </table>
 <p align="center"><em>Confusion matrices. KDEF, CK+, and JAFFE aggregate the out-of-fold predictions of the 5-fold sample-wise protocol.</em></p>
