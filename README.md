@@ -26,7 +26,7 @@ DRAG-Net was evaluated on two in-the-wild datasets (AffectNet-7 and FERPlus) and
 The seven classes are anger, disgust, fear, happiness, neutral, sadness, and surprise (for CK+, contempt replaces neutral). Sample-wise protocols use StratifiedKFold; subject-independent protocols use StratifiedGroupKFold grouped by subject ID, so the test subjects are never seen during training. All images are corrected with adaptive gamma correction, aligned and cropped using facial landmarks, and resized to 224 × 224 × 3 before training.
 
 <p align="center">
-  <img src="samples.png" width="900" alt="Examples of the seven emotion classes in the five datasets">
+  <img src="Figure2.png" width="900" alt="Examples of the seven emotion classes in the five datasets">
 </p>
 <p align="center"><em>Examples of the seven emotion classes. Rows from top to bottom: AffectNet, KDEF, CK+, JAFFE, and FERPlus.</em></p>
 
