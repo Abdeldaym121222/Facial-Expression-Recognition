@@ -1,4 +1,4 @@
-# Hybrid Attention and Grid-Graph Feature Interaction over Deep Residual Networks for In-the-Wild Facial Expression Recognition
+# Hybrid Attention-Graph Reasoning over Deep Residual Networks for In-the-Wild Facial Expression Recognition
 
 PyTorch implementation of **DRAG-Net** (Deep Residual Attention Graph Network) for facial expression recognition.
 
